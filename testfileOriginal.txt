@@ -1,0 +1,16 @@
+set a glen
+print a
+set a 12
+print a
+yo
+set b 13
+print b
+print c
+help
+set a a a
+set
+yo
+print a a a
+print
+help
+quit
